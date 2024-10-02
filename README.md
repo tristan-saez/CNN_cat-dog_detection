@@ -1,4 +1,6 @@
 # CNN_cat-dog_detection
+![Used languages](https://skillicons.dev/icons?i=python,pytorch)
+
 
 ## Description
 ---
